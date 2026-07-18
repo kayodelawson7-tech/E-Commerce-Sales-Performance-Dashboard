@@ -1,5 +1,5 @@
 # E-Commerce-Sales-Performance-Dashboard
- ![Dashboard](E-Commerce Sales Performance Dashboard1)
+ ![Dashboard](DB.PNG)
  
 The E-Commerce Sales Performance Dashboard is an interactive business intelligence solution developed using Microsoft Power BI to analyze the sales performance of an online retail business. The dashboard provides a comprehensive overview of key business metrics such as revenue, customer count, orders, product performance, sales trends, payment methods, referral sources, and coupon usage.
 The purpose of this dashboard is to help business managers make informed decisions by identifying high-performing products, 
